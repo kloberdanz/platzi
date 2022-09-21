@@ -1,5 +1,5 @@
 # platzi
-y este que?
+ahora entiendo muchas cosas que solo podria haber entendido haciendo miles de pruebas fallidas con este curso, casi te diria que entiendo como sube la info al repo remoto.
 
 Segun dice Freddy Vega tengo que escribir mi historia para hacer las pruebas a la hora de subir archivos.
 
