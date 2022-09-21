@@ -14,3 +14,5 @@ BUENO SE SUPONE QUE ESTE CODIGO SERIA LA CABECERA DEL CODIGO QUE EXPLICA FREDDY.
 va de nuevo pero con minuscula, porque? no hay porque... talalo, tonto PUTO.
 
 ahora con correcciones al local desde el remoto, a ver como me va...
+
+si, ahora desde el local al remoto, todo parece ser hermoso y fluido en armonia. como un concierto. JA
